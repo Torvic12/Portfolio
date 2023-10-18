@@ -11,7 +11,7 @@ const Contact = () =>{
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_xarnadf', 'template_r7izczm', form.current, 'tSdcwbCCBmibzuO0MY9zA')
+    emailjs.sendForm('service_xarnadf', 'template_r7izczm', form.current, 'ZjejWrD9iSm8cV9P6')
     e.target.reset();
   };
 
