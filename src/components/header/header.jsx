@@ -18,7 +18,7 @@ function header() {
           <img src={ME} alt="me" />
         </div>
 
-        <a href="#contact"  className='scroll__down'>Scroll Down</a>
+        <a href="#contact"  className='scroll__down'>Bajar</a>
       </div>
     </header>
   )
